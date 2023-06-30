@@ -32,6 +32,7 @@ Using the CBIndex simulator, one can try out, learn and practice crypto investme
 
 - Trigger stricter regulatory scrutiny and hindered ecosystem growth.
 
+### 🧙 How do we do that
 
 **CBIndex solves the problems with various on-chain investment vehicles:**
 
