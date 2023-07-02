@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-### 🙋‍♀️
+### 🙋‍♀
 
 As a decentralized asset management platform, CBIndex provides various crypto investment tools built on the CBI protocol, fostering an innovative environment for individuals and entities to manage and grow their crypto assets. 
 
