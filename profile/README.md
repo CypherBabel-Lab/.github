@@ -43,7 +43,7 @@ Using the CBIndex simulator, one can try out, learn and practice crypto investme
 - Equip each user with powerful investment simulators to play with.
 
 
-### 👩‍💻 CBIndex Architecture
+### 👩‍💻 Architecture
 
 
 The general framework or technical architecture of the CBIndex consists of several interconnected components designed to function seamlessly in the context of the blockchain and DeFi ecosystem. Here is a broad overview:
