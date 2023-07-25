@@ -13,7 +13,7 @@
 
 ### 🙋‍♀ What is CBIndex
 
-As a decentralized asset management platform, CBIndex provides various crypto investment tools built on the CBI protocol, fostering an innovative environment for individuals and entities to manage and grow their crypto assets. 
+As a one-stop toolkit and multi-chain protocol for on-chain crypto investment and asset management, CBIndex provides various crypto investment tools built on the CBI protocol, fostering an innovative environment for individuals and entities to manage and grow their crypto assets. 
 
 CBIndex encompasses a comprehensive suite of tools that empower users with unprecedented access to crypto investment through various vehicles, such as copy-investing, actively managed on-chain funds, and on-chain index funds. 
 
