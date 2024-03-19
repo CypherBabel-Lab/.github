@@ -13,13 +13,13 @@
 
 ### 🙋‍♀ What is CBIndex
 
-As a one-stop toolkit and multi-chain protocol for on-chain crypto investment and asset management, CBIndex provides various crypto investment tools built on the CBI protocol, fostering an innovative environment for individuals and entities to manage and grow their crypto assets. 
+CBIndex stands at the forefront of the evolving DeFi landscape, distinguished as a BTCFi-driven omnichain asset management protocol. This innovative platform is designed to seamlessly integrate the liquidity and security of Bitcoin with the expansive possibilities offered by DeFi across various blockchain networks. By leveraging the robust capabilities of the Internet Computer, CBIndex introduces a suite of cutting-edge BTCFi products and services tailored to the needs of modern investors seeking to navigate the complexities of the crypto market.
 
-CBIndex encompasses a comprehensive suite of tools that empower users with unprecedented access to crypto investment through various vehicles, such as copy-investing, actively managed on-chain funds, and on-chain index funds. 
+At its core, CBIndex focuses on unlocking the untapped potential of Bitcoin, transforming Bitcoin from a passive store of value into an active participant in the DeFi ecosystem. This is achieved through a series of pioneering solutions, including bridgeless and non-custodial wrapped Bitcoin, cross-chain Bitcoin restaking, and innovative lending and borrowing services tailored for Bitcoin and its tokens. These offerings are designed to enhance the liquidity and utility of Bitcoin and its tokens, enabling users to leverage their holdings in new and profitable ways.
 
-It delivers a democratized ecosystem where anyone can effortlessly make crypto investment decisions by copying seasoned investors or participating in active and index funds.
+Moreover, CBIndex addresses the critical need for reliable and accessible information within the Bitcoin ecosystem through its decentralized Bitcoin indexer. This tool provides users with comprehensive, real-time data on Bitcoin tokens (inscriptions), such as BRC20 and Atomicals, facilitating informed decision-making and strategic investment planning. Coupled with advanced Bitcoin token management capabilities, CBIndex ensures that users can efficiently manage their assets across multiple blockchains, benefiting from enhanced security, diversification, and performance optimization.
 
-Using the CBIndex simulator, one can try out, learn and practice crypto investments in a well-simulated environment. With the index tool, anyone can become a crypto index provider by building, managing, and promoting their crypto indices.
+In essence, CBIndex is not just an asset management protocol; it's a comprehensive ecosystem designed to bridge the gap between Bitcoin and the broader DeFi space. By providing users with the tools and resources needed to effectively manage their digital assets, CBIndex is setting a new standard for what is possible in the realm of crypto asset management. As the platform continues to evolve and expand its offerings, it remains committed to its vision of empowering users to maximize their investment potential in a secure, efficient, and user-friendly environment.
 
 ### 🌈 What problems do we want to solve
 
