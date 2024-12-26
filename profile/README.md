@@ -13,51 +13,114 @@
 
 ### 🙋‍♀ What is Bitomni
 
-Bitomni stands at the forefront of the evolving DeFi landscape and is distinguished as a BTCFi-driven omnichain asset management protocol. This innovative platform is designed to seamlessly integrate Bitcoin's liquidity and security with the expansive possibilities offered by DeFi across various blockchain networks. By leveraging the robust capabilities of the Internet Computer, Bitomni introduces a suite of cutting-edge BTCFi products and services tailored to the needs of modern investors seeking to navigate the complexities of the crypto market.
+Bitomni has evolved to become a **modular protocol for Chain Abstraction, enhanced by AI Agents**, positioning itself at the forefront of the Web3 revolution. Unlike traditional BTCFi-driven omnichain asset management protocols, Bitomni now focuses on delivering a seamless Chain Abstraction experience for both users and developers. Our innovative platform transforms the multi-chain landscape into a unified, intuitive environment—eliminating the need for chain switching, bridging complexities, or managing multiple tokens.
 
-At its core, Bitomni focuses on unlocking Bitcoin's untapped potential, transforming It from a passive store of value into an active participant in the DeFi ecosystem. This is achieved through a series of pioneering solutions, including a decentralized, trustless, and non-custodial Bitcoin bridge, cross-chain Bitcoin restaking, and innovative lending and borrowing services tailored for Bitcoin and its tokens. These offerings are designed to enhance the liquidity and utility of Bitcoin and its tokens, enabling users to leverage their holdings in new and profitable ways.
+At its core, Bitomni leverages a modular architecture composed of three essential modules: **AI Agents Module**, **Interoperability Module**, and **Universal Account Module**. This design allows for unparalleled flexibility and scalability, enabling the creation of diverse decentralized applications (dApps) that cater to a wide range of use cases without the typical blockchain-specific hurdles.
 
-Moreover, Bitomni addresses the critical need for reliable and accessible information within the Bitcoin ecosystem through its decentralized Bitcoin indexer. This tool provides users with comprehensive, real-time data on Bitcoin tokens (inscriptions), such as BRC20 and Atomicals, facilitating informed decision-making and strategic investment planning. Coupled with advanced Bitcoin token management capabilities, Bitomni ensures that users can efficiently manage their assets across multiple blockchains, benefiting from enhanced security, diversification, and performance optimization.
+**Key Components of Bitomni:**
 
-In essence, Bitomni is not just an asset management protocol; it's a comprehensive ecosystem designed to bridge the gap between Bitcoin and the broader DeFi space. By providing users with the tools and resources needed to manage their digital assets effectively, Bitomni is setting a new standard for what is possible in the realm of crypto asset management. As the platform continues to evolve and expand its offerings, it remains committed to its vision of empowering users to maximize their investment potential in a secure, efficient, and user-friendly environment.
+- **AI Agents Module:**  
+  Our AI-driven agents revolutionize user interactions by interpreting natural language requests and automating complex operations. This transforms intricate Web3 tasks into simple, conversational actions, making decentralized interactions as intuitive as chatting with a virtual assistant.
 
-### 🌈 What problems do we want to solve
+- **Interoperability Module:**  
+  Facilitates seamless asset transfers and communication across multiple blockchains. By eliminating the need for manual bridging, this module enhances liquidity and data sharing between diverse blockchain ecosystems, supporting a wide array of networks including EVM-compatible chains, Bitcoin Layer 2s, Move-based Blockchains, ICP, and more.
 
-Bitomni aims to address several key challenges:
+- **Universal Account Module:**  
+  Provides a single, chain-agnostic account system that simplifies identity and asset management. Users can enjoy a unified sign-on experience across multiple blockchains, reducing the need for multiple wallets and credentials and streamlining user onboarding.
 
-1. **Limited Bitcoin Utility in DeFi**: Despite being the premier cryptocurrency, Bitcoin's direct utility within the DeFi ecosystem has been relatively limited. Bitomni seeks to bridge this gap, enabling Bitcoin and its tokens to participate actively in DeFi applications and yield-generating activities.
+**Our Decentralized Applications:**
 
-2. **Complexity of Cross-Chain Operations**: Navigating assets across multiple blockchain networks is often complex and fraught with security risks. Bitomni simplifies this process, offering seamless and secure cross-chain asset management solutions.
+- **BitoBridge - Bitcoin Omnichain Bridge:**  
+  Built on Bitomni’s Interoperability Module, BitoBridge is the first-ever Bitcoin omnichain bridge. It supports bridging BTC and other tokens across numerous blockchains, ensuring secure, trust-minimized asset transfers and enhanced liquidity.
 
-3. **Access to Diversified Investment Strategies**: Due to the fragmented nature of the crypto market, investors looking to diversify their portfolios across different blockchain assets face hurdles. Bitomni provides a unified platform for managing a diversified portfolio with ease.
+- **Tyche - Chain Abstraction Playground:**  
+  Powered by all three core modules, Tyche is Bitomni’s pioneering dApp designed to revolutionize Web3 gaming and marketing through Chain Abstraction. As a fully on-chain playground, Tyche offers engaging probability-based mini-games and innovative marketing solutions, seamlessly integrated across multiple blockchains. By leveraging Bitomni’s advanced chain abstraction and AI-driven enhancements, Tyche eliminates the complexities of interacting with different chains, providing users with a smooth, intuitive experience akin to traditional Web2 applications. Whether you’re a gamer seeking thrilling on-chain adventures or a marketer aiming to reach broader audiences effortlessly, Tyche empowers you to explore and thrive in a unified, user-friendly Web3 environment. Tyche stands as the ultimate demonstration of Bitomni’s chain abstraction capabilities, showcasing how our protocol transforms decentralized interactions into seamless, accessible experiences.
 
-4. **High Barriers to Entry for BTCFi**: BTCFi's technical and operational complexities can deter many potential participants. Bitomni lowers these barriers, making BTCFi accessible to a broader audience by offering user-friendly tools and interfaces.
+Bitomni has achieved significant milestones, including winning prestigious developer grants and hackathons from **ICP, Move Ecosystem blockchains,** and **Polkadot**. These accomplishments underscore our team’s technical expertise and pioneering approach, validating our mission to simplify and enhance the Web3 experience through modular Chain Abstraction and AI-driven innovations.
 
-5. **Security and Custody Concerns**: Security remains a paramount concern in crypto, especially regarding asset custody. Bitomni addresses these concerns with non-custodial and bridgeless solutions that enhance asset security without compromising user control.
+### 🌈 What Problems Do We Want to Solve
 
-6. **Inefficient Asset Management Tools**: Existing tools for crypto asset management often lack the sophistication and integration needed for optimal portfolio management. Bitomni introduces advanced asset management vehicles, leveraging AI and blockchain technology to offer superior management capabilities.
+Bitomni addresses several critical challenges in the current Web3 landscape, aiming to make decentralized technology accessible, efficient, and user-friendly:
 
-### 🧙 How do we do that
+1. **Complexity of Multi-Chain Interactions:**  
+   Navigating multiple blockchain networks is often complicated and time-consuming for both users and developers. Bitomni simplifies this process by abstracting away the technical details, allowing seamless interactions across diverse chains through a unified protocol.
 
-Bitomni addresses the identified challenges through a comprehensive suite of solutions and technological innovations:
+2. **Limited Accessibility for Non-Crypto-Native Users:**  
+   The average user finds Web3 applications intimidating due to complex interfaces and technical requirements. Bitomni lowers the barriers to entry by providing intuitive, AI-driven interactions that make decentralized applications as easy to use as their Web2 counterparts.
 
-1. **Integrating Bitcoin with DeFi**: Bitomni leverages omnichain technology to seamlessly integrate Bitcoin and Bitcoin tokens into the DeFi ecosystem, enabling Bitcoin holders to participate in yield-generating activities, lending, borrowing, and other DeFi applications directly with their BTC assets.
+3. **Developer Overhead in Building Multi-Chain dApps:**  
+   Developers face significant challenges when integrating multiple blockchains into their applications, including managing different APIs and ensuring cross-chain compatibility. Bitomni’s modular protocol streamlines this process, enabling developers to build versatile, multi-chain dApps with ease.
 
-2. **Simplifying Cross-Chain Operations**: Utilizing Internet Computer technology, Bitomni facilitates secure and efficient cross-chain transactions, allowing users to manage their assets across multiple blockchain networks without the complexities and security risks traditionally associated with such operations.
+4. **Fragmented Asset Management and Identity Solutions:**  
+   Managing assets and identities across various blockchains can be cumbersome and insecure. Bitomni offers a Universal Account Module that provides a single, secure identity framework, simplifying asset management and enhancing security.
 
-3. **Offering Diversified Investment Strategies**: Through its platform, Bitomni provides access to a variety of investment vehicles and strategies, enabling users to easily diversify their portfolios across different blockchain assets. This is achieved by offering tools for direct investment in emerging Bitcoin tokens, such as BRC20 and Atomicals, and through innovative products like bridgeless wrapped Bitcoin and cross-chain restaking.
+5. **Inefficient and Trust-Heavy Cross-Chain Bridges:**  
+   Existing cross-chain bridges often require users to trust third parties, posing security risks. Bitomni’s Interoperability Module ensures secure, trust-minimized asset transfers, enhancing liquidity and reliability across chains.
 
-4. **Lowering Barriers to Entry for BTCFi**: Bitomni makes BTCFi more accessible by offering a user-friendly interface and simplifying the technical complexities involved in participating in BTCFi. This approach opens up BTCFi to a wider audience, including those new to DeFi or cryptocurrency.
+6. **Lack of Intelligent User Assistance:**  
+   Current Web3 applications lack intelligent interfaces that can guide users through complex operations. Bitomni’s AI Agents Module provides personalized, conversational assistance, making decentralized interactions straightforward and efficient.
 
-5. **Enhancing Security with Non-Custodial Solutions**: Prioritizing security, Bitomni adopts non-custodial and bridgeless approaches for the products, ensuring that users retain full control over their assets. This model minimizes trust in third parties and reduces the risk of asset loss due to hacks or mismanagement.
+### 🧙 How Do We Do That
 
-6. **Utilizing Advanced Asset Management Tools**: Bitomni incorporates sophisticated asset management tools, including decentralized Bitcoin indexers and token management platforms. These tools are designed to provide real-time data, analytics, and management capabilities, enabling users to make informed decisions and optimize their asset performance.
+Bitomni tackles these challenges through a comprehensive, modular approach combined with AI-driven enhancements:
 
-By implementing these solutions, Bitomni addresses the current limitations and challenges within the DeFi and cryptocurrency space and sets a new standard for innovation, security, and efficiency in crypto asset management.
+1. **Modular Architecture:**  
+   Bitomni’s protocol is built around three core modules—**AI Agents Module**, **Interoperability Module**, and **Universal Account Module**. This modularity allows developers to select and integrate only the components they need, ensuring flexibility and scalability in building decentralized applications.
 
+2. **AI-Driven Enhancements:**  
+   Our AI Agents transform user interactions by interpreting natural language requests and automating complex tasks. This makes decentralized operations as simple as having a conversation, significantly enhancing the user experience and reducing the learning curve for new users.
+
+3. **Interoperability Module:**  
+   Facilitates seamless asset transfers and communication across multiple blockchains. By supporting a wide range of networks, including EVM-compatible chains, Bitcoin Layer 2s, Move-based Blockchains, and ICP, Bitomni ensures that assets and data flow freely and securely between different ecosystems.
+
+4. **Universal Account Module:**  
+   Provides a single, chain-agnostic account system that simplifies identity and asset management. Users can log in once and access multiple blockchains without the need for multiple wallets or credentials, enhancing security and convenience.
+
+5. **Decentralized and Trust-Minimized Bridges:**  
+   Bitomni’s Interoperability Module includes secure, non-custodial bridges that eliminate the need for trusting third parties. This ensures that asset transfers are both secure and reliable, enhancing user trust and platform integrity.
+
+6. **Seamless Multi-Chain Integration for dApps:**  
+   By leveraging our modular protocol, dApps like **BitoBridge** and **Tyche** demonstrate the practical applications of Bitomni’s Chain Abstraction. BitoBridge showcases secure, omnichain asset transfers, while Tyche highlights the ability to build engaging, multi-chain gaming and marketing applications without the usual blockchain complexities.
+
+7. **Community and Developer Support:**  
+   Bitomni fosters a supportive ecosystem for developers and users alike. Comprehensive documentation, developer tools, and a vibrant community ensure that everyone can contribute to and benefit from our protocol’s advancements.
+
+By integrating these solutions, Bitomni not only addresses the current limitations of the Web3 ecosystem but also sets a new standard for innovation, security, and user-centric design in decentralized technology. Our commitment to modularity and AI-driven enhancements ensures that Bitomni remains adaptable and forward-thinking, ready to meet the evolving needs of the blockchain community.
+
+### 📈 Achievements & Milestones
+
+Bitomni has already achieved significant milestones, including:
+
+- **Winning Developer Grants and Hackathons:**  
+  Secured prestigious awards from **ICP, Move Ecosystem blockchains,** and **Polkadot**, highlighting our technical expertise and innovative approach.
+
+- **Successful Deployment of BitoBridge and Tyche:**  
+  Launched **BitoBridge**, the first-ever Bitcoin omnichain bridge, and **Tyche**, the ultimate Chain Abstraction playground for gaming and marketing.
+
+- **Strategic Partnerships and Community Growth:**  
+  Formed key partnerships within the blockchain ecosystem and grown a vibrant, engaged community dedicated to advancing Bitomni’s mission.
+
+### 🤝 Join Us
+
+**Become Part of Bitomni:**  
+Join our growing community of developers, users, and enthusiasts committed to shaping the future of Web3. Participate in our forums, contribute to our open-source projects, or follow us on social media.
+
+### ❓ Q&A
+
+We’re here to answer your questions and hear your feedback.
+
+### 🙏 Thank You
+
+Thank you for your time and interest in Bitomni. Together, we’ll create a more accessible, efficient, and user-friendly Web3 future.
+
+**Explore More:**
+- **Website:** [bitomni.io](https://bitomni.io)
+- **Tyche:** [tyche.bitomni.io](https://tyche.bitomni.io)
+- **BitoBridge:** [dapp.bitomni.io](https://dapp.bitomni.io)
+- **Twitter:** [@Bitomni_Global](https://x.com/Bitomni_Global)
 
 ### 🍿 Our Logo (A curious creature)
 
-https://www.bitomni.io/en/brand
+https://bitomni.io/brand
 
 
