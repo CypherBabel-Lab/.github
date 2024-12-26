@@ -117,7 +117,7 @@ Thank you for your time and interest in Bitomni. Together, we’ll create a more
 - **Website:** [bitomni.io](https://bitomni.io)
 - **Tyche:** [tyche.bitomni.io](https://tyche.bitomni.io)
 - **BitoBridge:** [dapp.bitomni.io](https://dapp.bitomni.io)
-- **Twitter:** [@Bitomni_Global](https://x.com/Bitomni_Global)
+- **X:** [@Bitomni_Global](https://x.com/Bitomni_Global)
 
 ### 🍿 Our Logo (A curious creature)
 
